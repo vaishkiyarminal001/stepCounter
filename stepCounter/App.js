@@ -138,6 +138,6 @@ const styles = StyleSheet.create({
     overflow: "hidden",
     fontSize: 23,
     color: "white",
-    fontWeight: "bold",
+    fontWeight: "bold"
   }
 });

@@ -10,8 +10,8 @@ export default function App() {
   const [stepCount, updateStepCount] = useState(0);
 
   var WindowHeight = Dimensions.get("window").height;
-  // var Dist = stepCount / 1300;
-  var DistanceCovered = Dist.toFixed(4);
+  var Dist = stepCount / 1300;
+  // var DistanceCovered = Dist.toFixed(4);
   var cal = DistanceCovered * 60;
   var caloriesBurnt = cal.toFixed(4);
 

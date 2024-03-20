@@ -123,7 +123,7 @@ const styles = StyleSheet.create({
     fontSize:18,
     fontWeight: "bold",
     marginBottom: 40,
-    // borderColor: 'white',
+    borderColor: 'white',
     // borderWidth: 1
     // fontFamily: "Papyrus",
   },
@@ -138,6 +138,6 @@ const styles = StyleSheet.create({
     overflow: "hidden",
     fontSize: 23,
     color: "white",
-    fontWeight: "bold"
+    fontWeight: "bold",
   }
 });
